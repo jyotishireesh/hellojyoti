@@ -1,8 +1,8 @@
 {
-    "name": "tutorialspoint/hello-world",
+    "name": "jyotiextension/hello-jyoti",
     "authors": [
         {
-            "name": "tutorialspoint"
+            "name": "jyoti"
         }
     ],
     "require": {},
